@@ -6,11 +6,11 @@
 * 09/18/2017: Attended online sessions (paper 1, LaTex, ShareLaTeX, Jabref, experiments)
 * 09/23/2017: Attended Online meeting with TAs
 
-# Practics
+# Practics:
 
 * 08/14/2017: Installed Pycharm and wrote initial programs
 
-# Writing
+# Writing:
 
 * 09/08/2017: Selected Paper 1 -  Big Data in Clinical Trails
 * 9/11/2017: Downloaded downloaded Jabref and practiced few basic things. 
