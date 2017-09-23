@@ -18,13 +18,13 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Mohan Mahendrakar
+ 
    hid:
-   - 000
-   - 001
-   title: This is my paper about xyz
-   abstract: This paper showcases this and that and the other
+   - 326
+ 
+ title: This is my paper about xyz
+   abstract:  Big Data in Clinical Trails
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
    status: in progress
@@ -35,10 +35,10 @@ paper1:
 ```
 paper2:
    author: 
-   - Gregor von Laszewski
+   - Mohan Mahendrakar
    hid:
-   - 000
-   title: This is my paper about the other abc
+   - 326
+   title:  Big data on autonomous cars
    abstract: This paper showcases tis and that and the other in regards to abc
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
    type: word
@@ -54,9 +54,9 @@ paper2:
    type: project
    type: report
    author: 
-   - Gregor von Laszewski
+   - Mohan Mahendrakar
    hid:
-   - 000
+   - 326
    title: Benchmarking a BigData Docker deployment
    abstract: This paper showcases tis and that and the other 
    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
