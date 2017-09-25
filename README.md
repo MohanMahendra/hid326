@@ -22,8 +22,8 @@ paper1:
     hid: 326
     title: Bigdadta in Clinical Trails
     abstract:  The vast volumes of data collected across the clinical trials process offers pharma and biotech 
-    the opportunity to leverage the information in these big data sets for improved clinical trial design, patient 
-    recruitment, site selection, monitoring insights and overall decision making.
+    the opportunity to leverage the information in these big data sets for improved clinical trial design, 
+    patient recruitment, site selection, monitoring insights and overall decision making.
     url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
     type: sharelatex
     status: in progress
