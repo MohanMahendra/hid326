@@ -19,12 +19,10 @@ owner:
 paper1:
    author: 
    - Mohan Mahendrakar
- 
-   hid:
+    hid:
    - 326
- 
- title: This is my paper about xyz
-   abstract:  Big Data in Clinical Trails
+  title: Bigdadta in Clinical Trails
+   abstract:  The vast volumes of data collected across the clinical trials process offers pharma
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
    status: in progress
